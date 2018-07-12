@@ -1,7 +1,21 @@
 ﻿{
-	"reg":true,
-	"ver":"6.7.0",
+	"reg":false,
+	"ver":"6.6.7",
 	"news":"\n\n没有不赚钱的微商\n只有坚持不下来的微商\n\n再苦再累就当自己是二百五\n再难再险就当自己是二皮脸\n与君共勉",
 	"updateUrl":"http://ttws.sunnie.work/ttws6.7.0.apk",
-	"QQGroup":"581054231"
+	"QQGroup":"581054231",
+	"6.6.7":{
+		"ID_FriendNews_MainListView":"dja",
+		"ID_FriendNews_MainListViewPPP":"df_",
+		"ID_FriendNews_MessageParent":"dkc",
+		"ID_FriendNews_MessageText":"dkf",
+		"ID_FriendNews_MessageTextMore":"aku",
+		"ID_FriendNews_ImagesParent":"dk2",
+		"ID_FriendNews_VideoParent":"aem",
+		"ID_FriendNews_MinVideoParent":"dhx",
+		"ID_FriendNews_LinkParent":"di6",
+		"ID_WebView_More":"hh",
+		"ID_FriendNews_SendButton":"hh",
+		"ID_FriendNews_SendButtonParentBar":"gw"
+	}
 }
