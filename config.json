@@ -18,6 +18,8 @@
 		"ID_FriendNews_SendButton":"hh",
 		"ID_FriendNews_SendButtonParentBar":"gw",
 		"ID_Album_Image":"dep",
-		"ID_Album_ImageText":"dis"
+		"ID_Album_ImageText":"dis",
+		"ID_Album_MessageText","ib",
+		"ID_Album_ImagesParent","dk2"
 	}
 }
